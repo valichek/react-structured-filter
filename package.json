@@ -2,6 +2,7 @@
   "name": "react-structured-filter",
   "version": "1.0.0",
   "description": "",
+  "main": "./src/main.jsx",
   "dependencies": {
     "fuzzy": "^0.1.0",
     "react": "*",
