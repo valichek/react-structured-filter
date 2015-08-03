@@ -20,5 +20,8 @@ You should poll data from a server and do filtering on a real database.
 ## Demo
 Check out the [docs](http://summitroute.github.io/react-structured-filter/) and [demo](http://summitroute.github.io/react-structured-filter/demo.html)
 
+## Note!
+The example code and dependencies needed to run it have been taken out of this repo so it can be used with npm install.
+
 ### License
 BSD License
