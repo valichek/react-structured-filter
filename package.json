@@ -19,6 +19,22 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "jspm": {
+    "main": "src/main.jsx!",
+    "dependencies": {
+      "jsx": "^0.1.1",
+      "react": "*",
+      "fuzzy": "^0.1.0",
+      "react-async": "^2.0.1",
+      "moment": "*",
+      "tether": "*",
+      "react-onclickoutside": "*",
+      "reqwest": "*",
+      "griddle-react": "0.2.4",
+      "griddle-callback": "0.2.0",
+      "react-bootstrap": "*"
+    }
+  },
   "author": "Summit Route LLC",
   "license": "BSD"
 }
